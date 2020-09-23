@@ -1,2 +1,2 @@
 # Course Template 
-This is an example repository for an course made up of multiple modules.
+This is an example repository for a course made up of multiple modules.
