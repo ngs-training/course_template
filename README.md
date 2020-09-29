@@ -4,10 +4,12 @@
 
 This is an example repository for a course made up of multiple modules.
 
+## Cloning the repository
 To checkout a repository made up of submodules please use
 
 git clone REPO_URL --recursive
 
+## Adding moules to respository as submodules
 To add a submodule to the repository use
 
    `git submodule add https://github.com/ngs-training/igv`
