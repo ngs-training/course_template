@@ -31,7 +31,9 @@ The .gitmodules configuration file stores the mapping between the project’s UR
 By default this new submodule will be tracking HEAD of the master branch. If you want your submodule to point to a specific tagged release use
 
   `cd igv`
+  
   `git checkout ngs_2020`
+  
   `cd ..`
 
 Then you will need to commit the changes and push them
