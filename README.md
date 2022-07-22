@@ -44,4 +44,4 @@ Then you will need to commit the changes and push them
    
    `git commit -m "Added submodule igv"`
    
-   `git push origin master`
+   `git push origin main`
